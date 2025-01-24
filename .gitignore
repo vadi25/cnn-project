@@ -4,3 +4,4 @@ ML Assignment.pdf
 model.pth
 optimized_cnn_cifar10.pth
 data
+.DS_Store
